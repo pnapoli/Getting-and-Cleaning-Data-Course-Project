@@ -11,4 +11,4 @@ The CodeBook.md file have the description of the data, variables, and the work p
 
 The code is stored in the file run_analysis.R that performs the analyses described in the 5 required steps to complete this project.
 
-The output of the project is uploaded in the Project page. 
+The output of the project is uploaded in the Course page. 
