@@ -3,7 +3,7 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 
 The repository hosts the code written in R and the documentation files for the Project: Getting and Cleaning Data from the course Data Science from John Hopkins University.
 
-The dataset object of this study is the "Human Activity Recognition Using Smartphones" provided by the Course organizers. 
+The dataset object of this study is the "Human Activity Recognition Using Smartphones" following the instruction to complete this project. 
 
 To use the code, it is necessary to have the data in the same folder, using the same names and not compressed. 
 
